@@ -15,6 +15,9 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHIMER-jpg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMER-jpg)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santiagodiaz-aka-shimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagodiaz-aka-shimer" height="30" width="40" /></a>
