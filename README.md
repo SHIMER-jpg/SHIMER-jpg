@@ -15,7 +15,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHIMER-jpg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMER-jpg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
