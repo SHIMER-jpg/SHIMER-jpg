@@ -1,5 +1,5 @@
 <h1 align="center">Hellow world 👋, my name is Santiago</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">Developing my passion of creating through computers</h3>
 
 - 🔭 I’m currently working on [RemindFull APP](https://github.com/SHIMER-jpg/REMINDFULL-APP)
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love to have conversations! (Like really love it)**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHIMER-jpg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
