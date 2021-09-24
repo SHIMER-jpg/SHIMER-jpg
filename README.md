@@ -15,6 +15,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHIMER-jpg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIMER-jpg&repo=PROYECTO-GRUPAL)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIMER-jpg&repo=REMINDFULL-APP)](https://github.com/anuraghazra/github-readme-stats)
 
