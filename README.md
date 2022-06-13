@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [RemindFull APP](https://github.com/SHIMER-jpg/REMINDFULL-APP)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SHIMER-jpg](https://github.com/SHIMER-jpg)
 
