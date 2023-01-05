@@ -17,8 +17,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIMER-jpg&repo=PROYECTO-GRUPAL)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIMER-jpg&repo=REMINDFULL-APP)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
